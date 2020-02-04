@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+}
+body {
+    margin-left: 50px;
+    background-color: lightblue;
+    margin-top: 50px;
+
+}
+
+.afterHours {
+    background-color: lightblue;
+    border: 2px solid red;
+}
