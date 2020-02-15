@@ -8,4 +8,5 @@ After the current day and time is passed, it should disable the input field not 
 If user needs to clear input, simply delete the text and save to update. 
 Input items are still available even after refreshing the browser unless cleared and saved. 
 
-![Screenshot (77)](https://user-images.githubusercontent.com/57572182/74595068-34847f80-4ff2-11ea-896f-e28653854ced.png)
+
+![Screenshot (77)](https://user-images.githubusercontent.com/57572182/74595189-6ea25100-4ff3-11ea-810e-26541d3ad0eb.png)
