@@ -11,7 +11,8 @@ If user needs to clear input, simply delete the text and save to update.
 Input items are still available even after refreshing the browser unless cleared and saved. 
 
 ## Tools
-Moment.js
+- Moment.js
+- BootStrap
 
 ## Technologies Used
 - HTML
