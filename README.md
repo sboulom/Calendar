@@ -13,6 +13,7 @@ Input items are still available even after refreshing the browser unless cleared
 ## Tools
 - Moment.js
 - BootStrap
+- Local Storage
 
 ## Technologies Used
 - HTML
