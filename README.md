@@ -14,10 +14,10 @@ Input items are still available even after refreshing the browser unless cleared
 Moment.js
 
 ## Technologies Used
--HTML
--CSS
--Javascript
--jQuery
+- HTML
+- CSS
+- Javascript
+- jQuery
 
 ## Source
 To use the day planner, click here https://sboulom.github.io/calendar/
